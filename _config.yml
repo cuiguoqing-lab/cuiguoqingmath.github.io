@@ -23,11 +23,9 @@ author:
   # Biographic information
   avatar           : "headpicture.png"
   name             : "Guoqing Cui"
-  pronouns         : # example: "she/her"  
   bio              : "An undergraduate in Shandong University"
-  location         : "Jinan"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Beijing"
+  employer         : "Shandong University"
   email            : "2967390748@qq.com" 
 
   # Academic websites
