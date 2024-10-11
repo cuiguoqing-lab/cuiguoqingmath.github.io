@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I’m currently an senior at Shandong University. Now I'm studying as an exchange student in Academy of Mathematics and Systems Science, CAS. 
-You can find me at Room 721, Siyuan Building , AMSS. 
+You can find me at Room 721, Siyuan Building , AMSS. 崔国庆
 
 
 Publications
