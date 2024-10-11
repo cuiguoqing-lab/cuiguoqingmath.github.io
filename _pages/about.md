@@ -20,7 +20,7 @@ Publications
 
 Notes
 ======
-1. 待更新。。。
+1. [2024年中科院四月保研笔试试题解答](files/2024中科院数学所笔试.pdf) .
 
 
 Last updated: 20241011
