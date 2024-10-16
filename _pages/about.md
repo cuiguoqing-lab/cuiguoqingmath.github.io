@@ -12,6 +12,8 @@ I'm interested in geometric analysis and nonlinear paitial differential equation
 You can find me at Room 721, Siyuan Building , AMSS.   
 My email is **202100091055@mail.sdu.edu.cn** & **2967390748@qq.com** .  
 
+This personal website is just an attempt without any valuable details. Just for fun.
+
 
 
 Publications
